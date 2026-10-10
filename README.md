@@ -2,7 +2,12 @@
 
 Code and data for the paper:
 
-> Author names. Hidden Recurrences: Robustness of Thyroid Cancer Recurrence Predictors to Targeted Training-Label Poisoning. JMIR Medical Informatics (submitted).
+> Mobeen Muhammad Ashraf, Iqra Ilyas. Hidden Recurrences: Robustness of Thyroid Cancer Recurrence Predictors to Targeted Training-Label Poisoning. JMIR Medical Informatics (submitted).
+
+## Authors
+
+- **Mobeen Muhammad Ashraf** (corresponding author)
+- **Dr. Iqra Ilyas**
 
 ## Dataset
 
@@ -43,6 +48,18 @@ The UCI Differentiated Thyroid Cancer Recurrence dataset (Borzooei and Tarokhian
     python code/03_analysis.py
 
 Seeds: 42, 7, 2024. Metrics are means across 15 runs (3 seeds times 5 stratified folds).
+
+## Citation
+
+If you use this code, please cite:
+
+    @article{ashraf2026hidden,
+      title={Hidden Recurrences: Robustness of Thyroid Cancer Recurrence Predictors to Targeted Training-Label Poisoning},
+      author={Ashraf, Mobeen Muhammad and Ilyas, Iqra},
+      journal={JMIR Medical Informatics},
+      year={2026},
+      note={Submitted}
+    }
 
 ## License
 
